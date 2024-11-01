@@ -13,21 +13,21 @@
 .container{
     width: 100%;
     min-height: 100vh;
-    background: #010213;
+    background: #2e0679;
     padding: 10px;
 }
 
 .todo-app{
     width: 100%;
     max-width: 540px;
-    background: #EEEEEE;
+    background: #b8b0b0;
     margin: 100px auto 20px;
     padding: 40px 30px 70px;
     border-radius: 10px;
 }
 
 .todo-app h2{
-    color: #010213);
+    color: #010213;
     display: flex;
     align-items: center;
     margin-bottom: 20px;
@@ -115,7 +115,7 @@ ul li span{
 }
 
 ul li span:hover{
-    background: #edeef0;
+    background: #b8b0b0;
 }
 
 footer{
